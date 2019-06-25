@@ -1,10 +1,9 @@
-The Crater_Detection.py module takes photos of the moon from the Lunar
-Reconnaissance Orbiter Camera (LROC) and detects the craters on the surface 
-in order to determine a safe landing zone for a spacecraft.
-
-
-
 The Star_Detection.py module takes photos of deep space from the Hubble Space 
 Telescope and detects the stars in the photo, counts the number of stars and 
 displays the results via a visual representation.
+
+The file messier.tiff is the photo that the module is preset to process.
+If you would like to run the module, clone the photo and set the file
+path in the source code.
+
 # cFS_Apps
